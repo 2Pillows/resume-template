@@ -9,7 +9,7 @@ RUN apt-get update \
 # Verify git and needed tools are installed
 RUN apt-get install --no-install-recommends -y git procps
 
-# Install Tex Live
+# Install Tex Live and Poppler
 RUN apt-get update && apt-get -y upgrade \
     && apt-get -y install --no-install-recommends \
     texlive \
