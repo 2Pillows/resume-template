@@ -1,4 +1,4 @@
-# resume-template
+# Resume Template
 
 LaTeX template for my resume
 
