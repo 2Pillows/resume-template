@@ -10,7 +10,15 @@ Requires a LaTeX installation or [Overleaf](https://www.overleaf.com/).
 
 If you don't want to use Overleaf, I'd recommend using Docker with VS Code because it's easy to set up. I believe the steps below cover all requirements but please let me know if I missed something.
 
+#### To create a public repository
 * Fork repository on GitHub Website
+
+#### To create a private repository
+* Download a ZIP file of the code under `<> Code` on the GitHub website
+* Create a new private repository
+* Follow instructions below to create container for private repository
+* Unzip ZIP file and copy contents to container
+
 * Install Docker: <https://docs.docker.com/get-docker/>
 * Install Docker extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker>
 * Install Remote Development extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
@@ -24,6 +32,8 @@ Renaming `first_last_resume.tex` will build the project. A bunch of files will b
 Editing the .tex file will also update the PDF, making it easy to work with.
 
 #### To update the repository:
+
+If you're using a public repository, be careful about sharing personal information.
 
 ```
 git add .
