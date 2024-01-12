@@ -2,7 +2,7 @@
 
 LaTeX template for my resume
 
-Based off of [mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_resume/tree/main)
+Based on [mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_resume/tree/main)
 
 ### Resume Template Preview
 ![Resume Template Preview](template_preview.png)
