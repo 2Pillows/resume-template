@@ -14,8 +14,8 @@ If you don't want to use Overleaf, I'd recommend using Docker with VS Code becau
 
 * Fork repository on GitHub Website
 * Install Docker: <https://docs.docker.com/get-docker/>
-* Install Docker Extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker>
-* Install Remote Development Extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
+* Install Docker extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker>
+* Install Remote Development extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 * In VS Code -> Press F1 -> Select "Dev Containers: Clone Repository in Container Volume..." -> Select "Clone a repository from GitHub in a Container Volume"
 * You may be required to sign into GitHub with VS Code.
 * Select repository
