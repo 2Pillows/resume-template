@@ -12,6 +12,7 @@ If you don't want to use Overleaf, I'd recommend using Docker with VS Code becau
 
 #### To create a public repository
 * Fork repository on GitHub Website
+
 OR
 * Copy instructions below with a public repository
 
