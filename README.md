@@ -39,5 +39,5 @@ If you're having problems with authentication this may be helpful: <https://code
 
 #### To generate a PNG for a one-page resume
 ```
-pdftoppm ./src/input.pdf outputname -png -singlefile
+pdftoppm ./src/input_file_name.pdf output_file_name -png -singlefile
 ```
