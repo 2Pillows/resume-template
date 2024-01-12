@@ -1,0 +1,14 @@
+{
+	"name": "Latex Resume Container",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"James-Yu.latex-workshop",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	},
+}
