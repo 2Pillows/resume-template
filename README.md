@@ -5,7 +5,7 @@ Based on [mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_resum
 ### Resume Template Preview
 ![Resume Template Preview](template_preview.png)
 
-### How to Use
+## How to Use
 Requires a LaTeX installation or [Overleaf](https://www.overleaf.com/). 
 
 If you don't want to use Overleaf, I'd recommend using Docker with VS Code because it's easy to set up. I believe the steps below cover all requirements but please let me know if I missed something.
