@@ -21,7 +21,7 @@ If you don't want to use Overleaf, I'd recommend using Docker with VS Code becau
 * Select repository
 * Exit Search/Prompt
 
-Renaming first_last_resume.tex will build the project. A bunch of files will be created including a PDF.
+Renaming `first_last_resume.tex` will build the project. A bunch of files will be created including a PDF.
 
 Editing the .tex file will also update the PDF, making it easy to work with.
 
