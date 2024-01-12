@@ -1,7 +1,5 @@
 # Resume Template
 
-LaTeX template for my resume
-
 Based on [mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_resume/tree/main)
 
 ### Resume Template Preview
