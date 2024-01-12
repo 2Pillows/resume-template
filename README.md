@@ -10,7 +10,7 @@ Based off of [mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_r
 ### How to Use
 Requires a LaTeX installation or [Overleaf](https://www.overleaf.com/). 
 
-If you don't want to use Overleaf, I'd recommend using Docker with VS Code because it's easy to set up.
+If you don't want to use Overleaf, I'd recommend using Docker with VS Code because it's easy to set up. I believe the steps below cover all requirements but please let me know if I missed something.
 
 * Fork repository on GitHub Website
 * Install Docker: <https://docs.docker.com/get-docker/>
