@@ -5,7 +5,7 @@ LaTeX template for my resume
 Based off of [mattyHerzig/mattys_resume](https://github.com/mattyHerzig/mattys_resume/tree/main)
 
 ### Resume Template Preview
-![Resume Template Preview](./src/first_last_resume.png)
+![Resume Template Preview](template_preview.png)
 
 ### How to Use
 Requires a LaTeX installation or [Overleaf](https://www.overleaf.com/). 
