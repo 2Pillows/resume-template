@@ -19,6 +19,7 @@ If you don't want to use Overleaf, I'd recommend using Docker with VS Code becau
 * Follow instructions below to create container for private repository
 * Unzip ZIP file and copy contents to container
 
+#### To set up docker container
 * Install Docker: <https://docs.docker.com/get-docker/>
 * Install Docker extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker>
 * Install Remote Development extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
