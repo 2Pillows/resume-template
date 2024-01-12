@@ -49,6 +49,13 @@ git push
 
 If you're having problems with authentication this may be helpful: <https://code.visualstudio.com/docs/sourcecontrol/github>
 
+#### To download the PDF
+* In VS Code, right-click the PDF and select `Download...`
+
+OR
+
+* On GitHub, navigate to the PDF and select `Download raw file` near the top right of the file preview window.
+
 #### To generate a PNG for a one-page resume
 ```
 pdftoppm ./src/input_file_name.pdf output_file_name -png -singlefile
