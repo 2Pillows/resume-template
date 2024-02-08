@@ -28,8 +28,8 @@ OR
 * Install Remote Development extension in VS Code: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
 * In VS Code -> Search/Select `>Dev Containers: Clone Repository in Container Volume...` -> Select `Clone a repository from GitHub in a Container Volume`
 * You may be required to sign into GitHub with VS Code.
-* Select repository
-* Exit Search/Prompt
+* Select repository -> main
+* If more options are given, you may need to restart as there was most likely a problem pulling .devcontainer files.
 
 Renaming `first_last_resume.tex` will build the project. A bunch of files will be created including a PDF.
 
