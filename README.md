@@ -47,7 +47,8 @@ git commit -m "update resume-template"
 git push
 ```
 
-If you're having problems with authentication this may be helpful: <https://code.visualstudio.com/docs/sourcecontrol/github>
+If you're having problems with authentication, I found GitHub CLI easy to use: <https://docs.github.com/en/github-cli/github-cli/quickstart>
+
 
 #### To download the PDF
 * In VS Code, right-click the PDF and select `Download...`
